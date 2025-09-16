@@ -4,23 +4,6 @@
 
 This project is a web-based Vehicle Parking App designed to simplify the process of finding and booking parking spots. It provides a user-friendly platform for drivers to locate available spaces and for administrators to manage the parking lot efficiently. The system is built with Python, Flask, and SQLAlchemy.
 
-## About
-
-**Name:** RITURAJ  
-**Student ID / Roll Number:** 23f2004390  
-**Email ID:** 23f2004390@ds.study.iitm.ac.in  
-**Course:** MAD 1 projects (vehicle parking app)
-
-##vedio link :
-[text](https://drive.google.com/file/d/1H1DbyURpYwboSBKUN4sO499omZuvefg1/view?usp=sharing)
-https://drive.google.com/file/d/1H1DbyURpYwboSBKUN4sO499omZuvefg1/view?usp=sharing
-
-
-
-This application was created as part of the curriculum requirements, demonstrating skills in web development, database management, and backend programming.
-
-## Key Features
-
 ### Two Main Parts
 The application provides separate views for users and administrators.
 
